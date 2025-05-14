@@ -11,6 +11,11 @@ namespace clinic.DataAccesLayer
         {
 
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("salammmmlarrr");
+                base.OnConfiguring(optionsBuilder);
+        }
         public DbSet<Project> Projects { get; set; }
         public DbSet<Category> Categories { get; set; }
         

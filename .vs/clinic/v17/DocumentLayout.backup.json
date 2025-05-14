@@ -1,54 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ClassTime\\source\\repos\\clinic\\",
+  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\clinic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\dataacceslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\dataacceslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\source\\repos\\clinic\\clinic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\migrations\\20250514151614_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\migrations\\20250514151614_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|c:\\users\\classtime\\desktop\\clinic\\clinic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE8AF6-8775-4AF3-BD65-E814B3AB94FC}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,119 +86,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "clinic\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Models\\Project.cs",
-              "RelativeToolTip": "clinic\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "clinic\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:31:00.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Models\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "clinic\\Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Models\\Common\\BaseEntity.cs*",
-              "RelativeToolTip": "clinic\\Models\\Common\\BaseEntity.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:27:50.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:03:19.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIEBAAAAAAAAAAAgwKIBAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T12:45:13.058Z",
+              "WhenOpened": "2025-05-14T15:28:10.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "clinic\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T12:44:46.108Z",
+              "WhenOpened": "2025-05-14T15:26:47.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "20250514151614_initdatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Migrations\\20250514151614_initdatabase.cs",
+              "RelativeDocumentMoniker": "clinic\\Migrations\\20250514151614_initdatabase.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Migrations\\20250514151614_initdatabase.cs",
+              "RelativeToolTip": "clinic\\Migrations\\20250514151614_initdatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:43:21.982Z",
+              "WhenOpened": "2025-05-14T15:16:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "clinic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "clinic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:15:08.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Program.cs",
-              "RelativeDocumentMoniker": "clinic\\Program.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Program.cs",
-              "RelativeToolTip": "clinic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:42:25.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "clinic\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "clinic\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-14T12:42:16.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "clinic\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "clinic\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -179,42 +155,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "clinic\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "clinic\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-14T12:20:25.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "clinic\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "clinic\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T12:15:08.968Z",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Program.cs",
+              "RelativeDocumentMoniker": "clinic\\Program.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Program.cs",
+              "RelativeToolTip": "clinic\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:42:25.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\DataAccesLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "clinic\\DataAccesLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\DataAccesLayer\\AppDbContext.cs*",
+              "RelativeToolTip": "clinic\\DataAccesLayer\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:01:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "clinic\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Models\\Category.cs",
+              "RelativeToolTip": "clinic\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:53:37.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "clinic\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:03:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "clinic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:43:21.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "clinic\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "clinic\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:16:29.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\appsettings.json",
+              "RelativeDocumentMoniker": "clinic\\appsettings.json",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\appsettings.json",
+              "RelativeToolTip": "clinic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T15:11:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clinic.csproj",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\clinic.csproj",
+              "RelativeDocumentMoniker": "clinic\\clinic.csproj",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\clinic.csproj",
+              "RelativeToolTip": "clinic\\clinic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T14:00:17.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "clinic\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "clinic\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:27:50.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "clinic\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Models\\Project.cs",
+              "RelativeToolTip": "clinic\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:31:00.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIEBAAAAAAAAAAAgwKIBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:45:13.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "clinic\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:44:46.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "clinic\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\source\\repos\\clinic\\clinic\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\clinic\\clinic\\Controllers\\HomeController.cs",
               "RelativeToolTip": "clinic\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:13:04.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T12:13:04.512Z"
             }
           ]
         }
